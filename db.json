@@ -1,0 +1,178 @@
+{
+    "calls": {
+        "agent": "test team",
+        "teams": [
+            {
+                "name": "loggedTime",
+                "total": 0.95,
+                "goal": 0.9
+            },
+            {
+                "name": "pause",
+                "total": 0.25,
+                "goal": 0.19
+            },
+            {
+                "name": "cpc",
+                "total": 0.33,
+                "goal": 0.28
+            },
+            {
+                "name": "convertion",
+                "total": 0.6,
+                "goal": 0.7
+            },
+            {
+                "name": "effectiveness",
+                "total": 0.6,
+                "goal": 0.7
+            },
+            {
+                "name": "quality",
+                "total": 0.72,
+                "goal": 0.85
+            }
+        ],
+        "calls": {
+            "callsMade": 234,
+            "unpaidPromise": 89,
+            "noPromise": 78,
+            "promise": 7,
+            "paidPromise": 7
+        },
+        "objections": {
+            "total": 90,
+            "items": [
+                {
+                    "name": "closeConditions",
+                    "value": 16,
+                    "amount": 16
+                },
+                {
+                    "name": "notFamiliar",
+                    "value": 16,
+                    "amount": 16
+                },
+                {
+                    "name": "paidDebt",
+                    "value": 16,
+                    "amount": 16
+                },
+                {
+                    "name": "notPaid",
+                    "value": 16,
+                    "amount": 16
+                }
+            ]
+        },
+        "breakages": {
+            "total": 90,
+            "items": [
+                {
+                    "name": "callRefusal",
+                    "value": 16,
+                    "amount": 16
+                },
+                {
+                    "name": "convoDenied",
+                    "value": 16,
+                    "amount": 16
+                },
+                {
+                    "name": "notFamiliar",
+                    "value": 16,
+                    "amount": 16
+                },
+                {
+                    "name": "notPaid",
+                    "value": 16,
+                    "amount": 16
+                }
+            ]
+        },
+        "myTeam": {
+            "total": 76,
+            "items": [
+                {
+                    "name": "q1Agents",
+                    "value": 16,
+                    "amount": 16
+                },
+                {
+                    "name": "q2Agents",
+                    "value": 16,
+                    "amount": 16
+                },
+                {
+                    "name": "q3Agents",
+                    "value": 16,
+                    "amount": 16
+                },
+                {
+                    "name": "q4Agents",
+                    "value": 16,
+                    "amount": 16
+                }
+            ]
+        },
+        "agents": [
+            {
+                "name": "Naldo",
+                "quarter": "Q1",
+                "performance": "high"
+            },
+            {
+                "name": "PEdro",
+                "quarter": "Q1",
+                "performance": "high"
+            },
+            {
+                "name": "Rubi",
+                "quarter": "Q1",
+                "performance": "low"
+            },
+            {
+                "name": "Rodolpho",
+                "quarter": "Q1",
+                "performance": "high"
+            },
+            {
+                "name": "Carolina",
+                "quarter": "Q1",
+                "performance": "low"
+            }
+        ],
+        "performances": [
+            {
+                "title": "empathy",
+                "value": 4.6,
+                "performance": "high"
+            },
+            {
+                "title": "professionalism",
+                "value": 4.8,
+                "performance": "low"
+            },
+            {
+                "title": "kindness",
+                "value": 2.3,
+                "performance": "high"
+            },
+            {
+                "title": "effective_communication",
+                "value": 2.6,
+                "performance": "low"
+            },
+            {
+                "title": "active_listening",
+                "value": 3.3,
+                "performance": "high"
+            },
+            {
+                "title": "personalization",
+                "value": 1.6,
+                "performance": 90
+            }
+        ]
+    }
+}
